@@ -1,0 +1,6 @@
+ID;mitigationsID;name;description;counter
+6541fa22-9943-4526-b7b0-f4d4be211191;M001;Backup Data;Regularly backup all critical data to ensure data integrity;10
+8fb29f13-bcde-4cf0-a3e4-1cad8f09275c;M002;Implement Firewalls;Install firewalls to protect against unauthorized access;5
+506a34ac-f755-4eea-9c7d-ddb0dece56e1;M003;Employee Training;Provide regular cybersecurity training to employees;8
+e4271656-842a-46c9-99b2-0f78f171001e;M004;Encryption;Implement encryption measures to protect sensitive data;12
+ea3e82c6-369f-4ed3-9379-adcfccaf36f2;M005;Penetration Testing;Conduct regular penetration testing to identify vulnerabilities;3

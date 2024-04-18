@@ -1,0 +1,4 @@
+specVersion: "2.5"
+metadata:
+  name: riskman.MyApplication
+type: application

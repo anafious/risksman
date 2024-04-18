@@ -1,0 +1,6 @@
+ID;risksID;name;description;impact;criticality;mitigation_ID
+6541fa22-9943-4526-b7b0-f4d4be211191;R001;Data Breach;Unauthorized access to sensitive data;15000;7;8fb29f13-bcde-4cf0-a3e4-1cad8f09275c
+8fb29f13-bcde-4cf0-a3e4-1cad8f09275c;R002;Network Downtime;Disruption of network services;8000;5;506a34ac-f755-4eea-9c7d-ddb0dece56e1
+506a34ac-f755-4eea-9c7d-ddb0dece56e1;R003;Phishing Attacks;Attempts to obtain sensitive information;5000;4;e4271656-842a-46c9-99b2-0f78f171001e
+e4271656-842a-46c9-99b2-0f78f171001e;R004;Software Vulnerabilities;Weaknesses in software code;10000;6;ea3e82c6-369f-4ed3-9379-adcfccaf36f2
+ea3e82c6-369f-4ed3-9379-adcfccaf36f2;R005;Physical Theft;Loss or theft of physical assets;12000;6;6541fa22-9943-4526-b7b0-f4d4be211191
